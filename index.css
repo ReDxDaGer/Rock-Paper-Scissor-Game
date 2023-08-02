@@ -27,6 +27,7 @@ h1{
     padding: 15px 25px;
     border-radius: 50px;
     transition: 0.3s;
+    margin-right: 10px;
 }
 .buttons a:hover{
     background-color: #fff;
